@@ -12,4 +12,8 @@ Power BI - Final Project Before Transformations is the original data used in the
 
 Power BI - Final Project is the data after the cleaning used in the Data Professional Project Survey.
 
+Movies and TV Shows Personal Project:
+
+-Visualized data using a stacked column chart, ribbon chart, pie chart, as well as cards and a table.
+
 flixpatrol is the data used in Movies and TV Shows Personal Project.
