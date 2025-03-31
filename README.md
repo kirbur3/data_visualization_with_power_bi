@@ -2,7 +2,7 @@
 
 Data Professional Survey Project:
 
-Note: This project is listed on my resume as "**Data Cleaning and Visualization with Power BI**".
+Note: This project is listed on my resume as "**Data Cleaning and Visualization with Power BI Project**".
 
 -Cleaned/Standardized data.
 
