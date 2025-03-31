@@ -2,6 +2,8 @@
 
 Data Professional Survey Project:
 
+Note: This project is listed on my resume as "**Data Cleaning and Visualization with Power BI**".
+
 -Cleaned/Standardized data.
 
 -Included visualizations such as: cards, a stacked bar chart, a clustered column chart, a treemap, gauges, and a donut chart.
