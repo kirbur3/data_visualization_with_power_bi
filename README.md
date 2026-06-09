@@ -2,7 +2,7 @@
 
 Data Professional Survey Project:
 
-Note: This project is listed on my CV & resume as "**Data Visualization and Reporting with Power BI**".
+Note: This project is listed as "**Data Visualization and Reporting with Power BI**".
 
 -Cleaned/Standardized data.
 
